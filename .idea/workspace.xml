@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="0c35c4bf-1eda-472a-94ad-bf8c3a16b7a0" name="Changes" comment="Web" />
+    <list default="true" id="af97c3b8-8aac-4ec8-932e-520be3388471" name="Changes" comment="Web" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -69,12 +69,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.SkyshopApplication.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "git-widget-placeholder": "HW26",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "I:/Работа/Учёба по Java/skyshop"
+    "git-widget-placeholder": "#2 on HW26"
   }
 }]]></component>
   <component name="RecentsManager">
@@ -161,7 +156,6 @@
       <option name="project" value="LOCAL" />
       <updated>1782682767829</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
