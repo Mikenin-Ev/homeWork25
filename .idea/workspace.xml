@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="af97c3b8-8aac-4ec8-932e-520be3388471" name="Changes" comment="Web">
-      <change afterPath="$PROJECT_DIR$/target/classes/application.properties" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -107,11 +106,11 @@
     </task>
     <task id="LOCAL-00002" summary="Web">
       <option name="closed" value="true" />
-      <created>1782066997915</created>
+      <created>1786987823511</created>
       <option name="number" value="00002" />
       <option name="presentableId" value="LOCAL-00002" />
       <option name="project" value="LOCAL" />
-      <updated>1782066997915</updated>
+      <updated>1786987823511</updated>
     </task>
     <task id="LOCAL-00003" summary="Web">
       <option name="closed" value="true" />
@@ -161,7 +160,7 @@
       <option name="project" value="LOCAL" />
       <updated>1782682767829</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
