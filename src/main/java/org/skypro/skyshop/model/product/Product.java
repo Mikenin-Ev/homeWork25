@@ -12,7 +12,8 @@ public abstract class Product implements Searchable {
     public Product(UUID id, String name) {
         this.id = id;
         if (name == null || name.isBlank()) {
-            throw new IllegalArgumentException("Название продукта не может быть пустым или состоять только из пробелов");
+            //throw new IllegalArgumentException("Название продукта не может быть пустым или состоять только из пробелов");
+            throw new NoSuchProductException("Название продукта не может быть пустым или состоять только из пробелов");
         }
 
         this.name = name;
